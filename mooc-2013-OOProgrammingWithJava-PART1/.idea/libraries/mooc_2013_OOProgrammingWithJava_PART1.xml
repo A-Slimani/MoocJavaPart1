@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="mooc-2013-OOProgrammingWithJava-PART1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/week3-047.LengthOfName.zip!/" />
+      <root url="jar://$PROJECT_DIR$/week3-046.AverageOfGivenNumbers.zip!/" />
+      <root url="jar://$PROJECT_DIR$/week3-044.Least.zip!/" />
+      <root url="jar://$PROJECT_DIR$/week3-045.Greatest.zip!/" />
+      <root url="jar://$PROJECT_DIR$/week3-043.SumOfNumbers.zip!/" />
+      <root url="jar://$PROJECT_DIR$/week3-051.SeparatingCharacters.zip!/" />
+      <root url="jar://$PROJECT_DIR$/week3-048.FirstCharacter.zip!/" />
+      <root url="jar://$PROJECT_DIR$/week3-050.SeparatingFirstCharacters.zip!/" />
+      <root url="jar://$PROJECT_DIR$/week3-052.ReversingName.zip!/" />
+      <root url="jar://$PROJECT_DIR$/week3-049.LastCharacter.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
